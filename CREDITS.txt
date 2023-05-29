@@ -1,0 +1,8 @@
+Sopberry font from:
+ - https://www.dafont.com/sopberry.font
+
+ Material icons from:
+ - https://pictogrammers.com/library/mdi/
+
+Color scheme [Slate] from:
+ - https://tailwindcss.com/docs/customizing-colors
